@@ -2,7 +2,7 @@
 
 ### Olá, bem vindo ao meu perfil. Me chamo Edison Garcia! 
 
-- 🚀 Atualmente estou buscando uma colocação no mercado como Analista de Dados.
+- 🚀 Atualmente estou buscando uma colocação no mercado como Cientista de Dados.
 - 📚 Constante aprendizado sobre Ciência de Dados, Análise de Dados e Business Intelligence.
   <h2 align="start"> Languages and Tools </h2>
 
