@@ -9,7 +9,7 @@
 <div align="start">
   
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,vscode,css,html,postgres,php,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,vscode,css,html)](https://skillicons.dev)
 
 </div>
 
