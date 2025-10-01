@@ -2,8 +2,8 @@
 
 ### Olá, bem vindo ao meu perfil. Me chamo Edison Garcia! 
 
-- 🚀 Atualmente estou buscando uma colocação no mercado como Cientista de Dados.
-- 📚 Constante aprendizado sobre Ciência de Dados, Análise de Dados e Business Intelligence.
+- 🚀 Sou um Dev Front-end já com alguma experiência na área.
+- 📚 Em constante aprendizado sobre as melhores e mais avançadas tecnologias do desenvolvimento web e as novidades sobre IA.
   <h2 align="start"> Languages and Tools </h2>
 
 <div align="start">
