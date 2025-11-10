@@ -1,4 +1,4 @@
-<img align="right" src="/assets/github_logo.png" width="300"/>
+<img align="right" src="/assets/github_logo.png" width="250"/>
 
 ### Olá, bem vindo ao meu perfil. Me chamo Edison Garcia! 
 
