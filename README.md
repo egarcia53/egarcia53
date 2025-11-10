@@ -13,6 +13,7 @@
 
 </div>
 
+<p><p>
 <p align="start">
   <!-- - 👨🏽‍💻 Linguagens de programação mais utilizadas: -->
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egarcia53&layout=compact&langs_count=16&theme=radical"/>
